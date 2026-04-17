@@ -1,0 +1,68 @@
+2026-04-07 15:50:55 - INFO - Test security log entry - System initialized
+2026-04-07 15:50:55 - WARNING - Test warning - Failed login attempt detected
+2026-04-07 15:54:34 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-07 15:54:34 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-07 15:54:58 - INFO - User: Rafi | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-07 15:54:58 - INFO - User: Rafi | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-07 15:57:24 - INFO - User: Rafi | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-07 15:57:29 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-07 16:00:06 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-07 16:00:06 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-07 16:00:29 - INFO - User: Rafi | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-07 16:00:29 - INFO - User: Rafi | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-07 16:07:45 - INFO - User: Rafi | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-07 16:07:46 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-08 11:09:12 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: 
+2026-04-08 11:09:12 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-08 11:09:12 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-08 11:09:12 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-08 11:11:25 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-08 11:11:25 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-08 11:11:25 - WARNING - User: Arman | Action: LOGIN_FAILED_NO_USER | IP: 127.0.0.1 | Details: User does not exist
+2026-04-08 11:11:41 - INFO - User: Arman | Action: REGISTER_SUCCESS | IP: 127.0.0.1 | Details: New user registration
+2026-04-08 11:11:42 - INFO - User: Arman | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-08 12:59:00 - INFO - User: Arman | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-08 12:59:01 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-11 14:30:01 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: 
+2026-04-11 14:30:02 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-11 14:30:02 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-11 14:30:02 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-11 14:30:34 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-11 14:30:35 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-11 14:31:03 - INFO - User: Rafi | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-11 14:31:03 - INFO - User: Rafi | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-11 14:35:42 - INFO - User: Rafi | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-11 14:35:45 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-11 14:36:25 - WARNING - User: Amal | Action: LOGIN_FAILED_NO_USER | IP: 127.0.0.1 | Details: User does not exist
+2026-04-11 14:36:55 - WARNING - User: arfin | Action: LOGIN_FAILED_NO_USER | IP: 127.0.0.1 | Details: User does not exist
+2026-04-11 14:37:20 - WARNING - User: Rafi | Action: LOGIN_FAILED_WRONG_PASSWORD | IP: 127.0.0.1 | Details: Incorrect password
+2026-04-11 14:37:33 - WARNING - User: Rafi | Action: REGISTER_FAILED_USER_EXISTS | IP: 127.0.0.1 | Details: Username already exists
+2026-04-11 15:06:14 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: 
+2026-04-11 15:06:14 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-11 15:10:26 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: 
+2026-04-11 15:10:26 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-11 15:10:26 - INFO - User: UNKNOWN | Action: AUTH_ERROR | IP: 127.0.0.1 | Details: Authentication error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-11 15:10:26 - INFO - User: UNKNOWN | Action: CONNECTION_FAILED | IP: 127.0.0.1 | Details: Failed authentication attempt
+2026-04-11 15:11:02 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-11 15:11:02 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-11 15:11:46 - INFO - User: Rafi | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-11 15:11:46 - INFO - User: Rafi | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-11 16:26:22 - INFO - User: Rafi | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-11 16:26:26 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-13 10:47:25 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-13 10:47:26 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-13 10:48:12 - INFO - User: Rafi | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-13 10:48:12 - INFO - User: Rafi | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-15 12:37:18 - INFO - User: Rafi | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-15 12:37:25 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-15 12:41:27 - WARNING - User: Shawon | Action: REGISTER_FAILED_USER_EXISTS | IP: 127.0.0.1 | Details: Username already exists
+2026-04-15 12:42:42 - WARNING - User: Shawon | Action: LOGIN_FAILED_WRONG_PASSWORD | IP: 127.0.0.1 | Details: Incorrect password
+2026-04-15 12:43:51 - WARNING - User: Ramim | Action: LOGIN_FAILED_NO_USER | IP: 127.0.0.1 | Details: User does not exist
+2026-04-15 12:45:11 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-15 12:45:11 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-16 23:05:33 - INFO - User: Shawon | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-16 23:05:33 - INFO - User: Shawon | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-16 23:12:03 - INFO - User: Rafi | Action: LOGIN_SUCCESS | IP: 127.0.0.1 | Details: Successful authentication
+2026-04-16 23:12:04 - INFO - User: Rafi | Action: JOIN_CHAT | IP: 127.0.0.1 | Details: User joined chat room
+2026-04-16 23:29:25 - INFO - User: Shawon | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
+2026-04-16 23:29:28 - INFO - User: Rafi | Action: LEFT_CHAT | IP: 127.0.0.1 | Details: User disconnected from chat
